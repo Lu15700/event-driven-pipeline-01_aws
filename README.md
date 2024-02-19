@@ -1,4 +1,4 @@
-![diagram](https://github.com/Lu15700/event-driven-pipeline_in_aws/assets/102251361/b02299dc-83a2-4f24-adbc-2350b38a4ab7)## Description
+## Description
 A pipeline on AWS to transform a CSV file to a Parquet file, once the CSV file is uploaded to the landing directory. Then, the transformed file is moved to a next stage directory, and the input file is changed to a better storage class.
 
 ## Technologies
