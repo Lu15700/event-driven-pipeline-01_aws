@@ -1,5 +1,5 @@
 ## Description
-A pipeline on AWS to transform a CSV file to a Parquet file, once the CSV file is uploaded to the landing directory. Then, the transformed file is moved to a next stage directory, and the input file is changed to [intelligent-tiering](https://aws.amazon.com/s3/storage-classes/intelligent-tiering/) after 3 days.
+A pipeline in AWS to transform a CSV file to a Parquet file, once the CSV file is uploaded to the input directory. Then, the transformed file is moved to the output directory, and the input file is changed to [intelligent-tiering](https://aws.amazon.com/s3/storage-classes/intelligent-tiering/) after 3 days.
 
 ## Technologies
 - Python
