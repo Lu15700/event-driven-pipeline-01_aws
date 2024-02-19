@@ -9,7 +9,8 @@ A pipeline on AWS to transform a CSV file to a Parquet file, once the CSV file i
 - Amazon EventBridge
 
 ## Architecture
-![diagram](https://github.com/Lu15700/event-driven-pipeline_in_aws/assets/102251361/ccae797b-0274-4972-909f-71eedfac60bb)
+![diagram](https://github.com/Lu15700/event-driven-pipeline_in_aws/assets/102251361/12173912-98af-4ac3-9d8f-ce84721e7708)
+
 
 ## Snippet
 
