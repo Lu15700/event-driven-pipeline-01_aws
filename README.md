@@ -12,7 +12,7 @@ A pipeline in AWS to transform a CSV file to a Parquet file, once the CSV file i
 ![architecture](https://github.com/Lu15700/event-driven-pipeline_in_aws/assets/102251361/4d100087-f1c8-491b-a7f3-21e901bca0f7)
 
 ## Snippet
-![snippet](https://github.com/Lu15700/event-driven_pipeline_in_aws/assets/102251361/bff14695-4b79-4475-9d6e-43930ae457ac)
+![snippet](https://github.com/Lu15700/event-driven_pipeline_in_aws/assets/102251361/96bb9789-89a8-4a71-9bf6-9a25d73f602a)
 
 ## Result
 
